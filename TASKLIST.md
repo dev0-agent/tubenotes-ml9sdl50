@@ -7,7 +7,7 @@ It is automatically updated by dev0 as tasks are completed.
 
 ## Phase 1
 
-- [ ] ⏳ **Setup Environment and Database Configuration**
+- [x] ✅ **Setup Environment and Database Configuration**
   Create an `env.ts` file to handle environment variables (DATABASE_URL). Configure Drizzle ORM with a basic connection client. Ensure the project can connect to the database.
 
 - [ ] ⏳ **Design Database Schema**
