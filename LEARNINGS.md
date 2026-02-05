@@ -1,33 +1,4 @@
-# Project Learnings
+# Learnings
 
-This file tracks insights and learnings from agents working on this project.
-Each agent updates this file after completing a task.
-
-## Guidelines for Agents
-
-When updating this file:
-- Document edge cases you encountered
-- Note errors you fixed and how
-- Share tips that would help future agents
-- Mention any important architectural decisions
-- Keep entries concise but informative
-
-## Format
-
-Use this format when adding learnings:
-
-```markdown
-### Task: [Task Title]
-- **Completed:** [Date]
-- **Task ID:** [ID]
-- **Learnings:**
-  - [Learning 1]
-  - [Learning 2]
-  - [Learning 3]
-```
-
----
-
-## Learnings Log
-
-_(Agents will append their learnings below as tasks are completed)_
+## TypeScript
+- An empty file is not considered a module. If you want to import it using `import * as schema from "./schema"`, it must have at least one export (e.g., `export {};`).
